@@ -1,4 +1,4 @@
-// src/components/CompareModal.js
+
 import React from 'react';
 import { Modal, Table, Button } from 'antd';
 
